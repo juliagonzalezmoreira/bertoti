@@ -12,6 +12,8 @@
 ### 2. Match Between the System and the Real World
 "O design deve falar a língua dos usuários. Use palavras, frases e conceitos familiares ao usuário, em vez de jargões internos. Siga as convenções do mundo real, fazendo com que as informações apareçam em uma ordem natural e lógica."
 
+<img src= "https://github.com/DianneFaria/Bertoti/assets/126245947/c0c7dcfe-4954-473d-9a48-6d02eb96d3f9" height=440 width=320>
+
 ### 3. User Control and Freedom
 "Os usuários geralmente executam ações por engano. Eles precisam de uma "saída de emergência" claramente marcada para deixar a ação indesejada sem ter que passar por um processo prolongado."
 
@@ -21,6 +23,8 @@
 
 ### 4. Consistency and Standards
 "Os usuários não devem ter que se perguntar se palavras, situações ou ações diferentes significam a mesma coisa. Siga as convenções da plataforma e do setor."
+
+![Erro 4](https://github.com/DianneFaria/Bertoti/assets/126245947/2e0f726d-fd38-4093-8c32-a428894ad09b)
 
 ### 5. Error Prevention
 "Os usuários geralmente executam ações por engano. Eles precisam de uma "saída de emergência" claramente marcada para deixar a ação indesejada sem ter que passar por um processo prolongado."
@@ -40,8 +44,12 @@
 ### 7. Flexibility and Efficiency of Use
 "Os atalhos podem acelerar a interação para o usuário experiente para que o design possa atender tanto usuários inexperientes quanto experientes. Permita que os usuários personalizem ações frequentes."
 
+<img src= "https://github.com/DianneFaria/Bertoti/assets/126245947/ca3bff46-5d29-4c62-a66b-416c9c9cca0b" height=480 width=700>
+
 ### 8. Aesthetic and Minimalist Design
 "As interfaces não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação em uma interface compete com as unidades de informação relevantes e diminui sua visibilidade relativa."
+
+<img src= "https://github.com/DianneFaria/Bertoti/assets/126245947/00db3b7c-5f56-4288-a2b6-49e694e5ae57" height=400 width=620>
 
 ### 9. Help Users Recognize, Diagnose, and Recover from Errors
 "As mensagens de erro devem ser expressas em linguagem simples, indicar precisamente o problema e sugerir construtivamente uma solução."
