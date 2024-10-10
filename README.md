@@ -11,7 +11,8 @@
  <br><br>
 
 ## 📁 Estrutura/
-*  [Engenharia I](https://github.com/juliagonzalezmoreira/bertoti/tree/master/Engenharia%20I) / Atividades de Engenharia de Software I.
+*  [ESI](https://github.com/juliagonzalezmoreira/bertoti/tree/master/ESI) / Atividades de Engenharia de Software I.
+*  [ESIII](https://github.com/juliagonzalezmoreira/bertoti/tree/master/ESIII) / Atividades de Engenharia de Software III.
 *  [IHC](https://github.com/juliagonzalezmoreira/bertoti/tree/master/IHC) / Atividades de Interação Humano Computador.
 * README.md / Informações do repositório.  
 
